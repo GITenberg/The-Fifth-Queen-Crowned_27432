@@ -1,0 +1,37 @@
+_repo: The-Fifth-Queen-Crowned_27432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ford, Ford Madox
+    aliases:
+    - Huffer, Ford
+    - Chaucer, Daniel
+    - Hueffer, Ford H. Madox
+    - Hueffer, Ford Madox
+    - Hueffer, Ford Hermann
+    birthdate: 1873
+    deathdate: 1939
+    gutenberg_agent_id: '1016'
+    url: http://www.gutenberg.org/2009/agents/1016
+    wikipedia: http://en.wikipedia.org/wiki/Ford_Madox_Ford
+description: Published in 1908, The Fifth Queen Crowned concludes Ford's trilogy about
+  Katherine Howard, the fifth wife of Henry VIII; it was preceded by The Fifth Queen
+  (1906) and Privy Seal (1907). Ford portrays Howard as a sympathetic figure, a strong-willed
+  young woman unafraid to risk her life for the salvation of her husband's soul.
+gutenberg_issued: '2008-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Catharine Howard, Queen, consort of Henry VIII, King of England, -1542 --
+  Fiction'
+title: The Fifth Queen Crowned
+url: http://www.gutenberg.org/ebooks/27432
